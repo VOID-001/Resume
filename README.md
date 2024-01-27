@@ -28,7 +28,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/resume-html-code.git
+git clone https://github.com/VOID-001/Resume
 Open the index.html file in a web browser.
 
 Customize the content as needed for your personal information.
